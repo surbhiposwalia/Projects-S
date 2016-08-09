@@ -1,0 +1,33 @@
+body
+{
+	color: black;
+	background: white;
+	border: 5px solid black;
+	padding: 30px;
+}
+
+img{
+	border:3px solid blue;
+}
+
+h1
+{
+	color: blue;
+
+}
+
+h2{ color: blue; }
+
+
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    background-color: white;
+}
+
+.flex-item {
+    background-color: lightgrey;
+    margin: 10px;
+
+}
